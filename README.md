@@ -7,10 +7,9 @@ npm run server (서버 실행)
 json-server --watch db.json
 ```
 
+(짧은 시간에 기능 구현만 되도록 개발했기 때문에 참고용으로만 활용)
 ## 설명
 https://ajdahrdl.tistory.com/512
-
-짧은 시간에 기능 구현만 되도록 개발했기 때문에 참고용으로만 활용
 
 ## json-server
 https://www.npmjs.com/package/json-server
