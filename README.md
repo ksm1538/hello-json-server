@@ -1,24 +1,16 @@
-# hello-json-server
+## 서버 실행
+```
+npm install (의존성 설치)
+npm run server (서버 실행)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+// 다른 command / terminal 에서 json-server 실행
+json-server --watch db.json
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 설명
+https://ajdahrdl.tistory.com/512
 
-### Lints and fixes files
-```
-npm run lint
-```
+짧은 시간에 기능 구현만 되도록 개발했기 때문에 참고용으로만 활용
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## json-server
+https://www.npmjs.com/package/json-server
